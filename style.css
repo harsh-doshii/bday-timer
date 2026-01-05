@@ -62,7 +62,6 @@ body {
     font-size: clamp(2rem, 5vw, 3.5rem);
     font-weight: 700;
     margin-bottom: 60px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     letter-spacing: 1px;
 }
 
@@ -105,7 +104,6 @@ body {
     font-weight: 700;
     line-height: 1;
     margin-bottom: 10px;
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
 
 .time-label {
